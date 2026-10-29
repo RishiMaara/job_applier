@@ -273,6 +273,10 @@ export const masterProfileData = {
       skills: ["Python", "Java", "TypeScript", "JavaScript", "Go (Golang)", "SQL", "C", "HTML5", "CSS3"]
     },
     {
+      title: "Continuous Upskilling (Active)",
+      skills: ["Ruby & Rails Fundamentals", "Scala", "Distributed Consensus (Raft/Paxos)", "Event-Driven Financial Systems"]
+    },
+    {
       title: "Web & Microservices",
       skills: ["FastAPI", "Spring Boot", "React.js", "Next.js", "Node.js", "Flask", "Hibernate / JPA", "REST APIs", "Pydantic", "Webhooks"]
     },
@@ -360,6 +364,14 @@ export const masterProfileData = {
       "Dossier master export JSON backup available in workspace root: dossier-master-export.json."
     ],
     starterApplications: [
+      {
+        id: "app-stripe",
+        company: "Stripe",
+        role: "Software Engineer, New Grad (Bengaluru)",
+        status: "Draft",
+        date: "2026-10-29",
+        notes: "Tailored resume generated. Emphasized AmongResolver (reconciliation to exact paise), D Trade Capital risk engine (sub-10ms latency), Go, Java, and 430+ automated tests."
+      },
       {
         id: "app-1",
         company: "JPMorgan Chase & Co.",
