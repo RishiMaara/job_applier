@@ -1,0 +1,884 @@
+{
+  "format": "dossier-export",
+  "schemaVersion": 5,
+  "appVersion": "1.9.2",
+  "exportedAt": "2026-10-29T06:56:11.249Z",
+  "profile": {
+    "fields": [
+      {
+        "key": "name",
+        "value": "Rishikesh AV"
+      },
+      {
+        "key": "headline",
+        "value": "Software Engineer & AI/ML Engineer | Full-Stack & Distributed Systems"
+      },
+      {
+        "key": "email",
+        "value": "rishirudhm@gmail.com"
+      },
+      {
+        "key": "phone",
+        "value": "+91 7904808788"
+      },
+      {
+        "key": "city",
+        "value": "Madurai, Tamil Nadu"
+      },
+      {
+        "key": "country",
+        "value": "India"
+      },
+      {
+        "key": "website",
+        "value": "https://rishikesh-av-portfolio.lovable.app"
+      },
+      {
+        "key": "linkedin",
+        "value": "https://www.linkedin.com/in/rishi-kesh-av"
+      },
+      {
+        "key": "summary",
+        "value": "Software engineer (B.Tech AI & ML, 2027) with hands-on production experience in Java, Python, TypeScript, Go, and React/Next.js across the full SDLC. Experienced in designing scalable REST APIs, microservices, and event-driven data pipelines with 430+ automated tests. Currently engineering real-time ML inference services (Transformer models, ONNX Runtime, Redis caching) and LLM-integrated automation tools (Claude API, LangChain, RAG) in the financial and risk domain at D Trade Capital. Active problem solver with 738+ solved LeetCode problems, Top 5 finalist at IIT Bombay Hackathon, and ranked #26 of 9,600+ in Naukri Campus CodeQuezt."
+      },
+      {
+        "key": "showAge",
+        "value": "false"
+      },
+      {
+        "key": "photo",
+        "value": "data:image/jpeg;base64,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"
+      },
+      {
+        "key": "photoOnResumes",
+        "value": "true"
+      }
+    ],
+    "skills": [
+      {
+        "id": "skill_1",
+        "name": "Python",
+        "sort": 0,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_2",
+        "name": "Java",
+        "sort": 1,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_3",
+        "name": "TypeScript",
+        "sort": 2,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_4",
+        "name": "JavaScript",
+        "sort": 3,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_5",
+        "name": "Go",
+        "sort": 4,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_6",
+        "name": "SQL",
+        "sort": 5,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_7",
+        "name": "C",
+        "sort": 6,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_8",
+        "name": "HTML5",
+        "sort": 7,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_9",
+        "name": "CSS3",
+        "sort": 8,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_10",
+        "name": "FastAPI",
+        "sort": 9,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_11",
+        "name": "Spring Boot",
+        "sort": 10,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_12",
+        "name": "React",
+        "sort": 11,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_13",
+        "name": "Next.js",
+        "sort": 12,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_14",
+        "name": "Node.js",
+        "sort": 13,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_15",
+        "name": "Flask",
+        "sort": 14,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_16",
+        "name": "Hibernate/JPA",
+        "sort": 15,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_17",
+        "name": "REST APIs",
+        "sort": 16,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_18",
+        "name": "Microservices",
+        "sort": 17,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_19",
+        "name": "Pydantic",
+        "sort": 18,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_20",
+        "name": "Webhooks",
+        "sort": 19,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_21",
+        "name": "PyTorch",
+        "sort": 20,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_22",
+        "name": "ONNX Runtime",
+        "sort": 21,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_23",
+        "name": "Transformers",
+        "sort": 22,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_24",
+        "name": "Large Language Models (LLMs)",
+        "sort": 23,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_25",
+        "name": "LangChain",
+        "sort": 24,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_26",
+        "name": "RAG",
+        "sort": 25,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_27",
+        "name": "ChromaDB",
+        "sort": 26,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_28",
+        "name": "Cross-Encoder Reranking",
+        "sort": 27,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_29",
+        "name": "RAGAS",
+        "sort": 28,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_30",
+        "name": "Scikit-learn",
+        "sort": 29,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_31",
+        "name": "OpenCV",
+        "sort": 30,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_32",
+        "name": "Prompt Engineering",
+        "sort": 31,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_33",
+        "name": "AI Agents",
+        "sort": 32,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_34",
+        "name": "PostgreSQL",
+        "sort": 33,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_35",
+        "name": "MySQL",
+        "sort": 34,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_36",
+        "name": "Redis",
+        "sort": 35,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_37",
+        "name": "Supabase",
+        "sort": 36,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_38",
+        "name": "Firebase Firestore",
+        "sort": 37,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_39",
+        "name": "SQLite",
+        "sort": 38,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_40",
+        "name": "Pandas",
+        "sort": 39,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_41",
+        "name": "NumPy",
+        "sort": 40,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_42",
+        "name": "Google OR-Tools (CP-SAT)",
+        "sort": 41,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_43",
+        "name": "ETL Pipelines",
+        "sort": 42,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_44",
+        "name": "Docker",
+        "sort": 43,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_45",
+        "name": "Kubernetes",
+        "sort": 44,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_46",
+        "name": "AWS",
+        "sort": 45,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_47",
+        "name": "Oracle Cloud (OCI)",
+        "sort": 46,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_48",
+        "name": "Microsoft Azure",
+        "sort": 47,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_49",
+        "name": "CI/CD",
+        "sort": 48,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_50",
+        "name": "Git",
+        "sort": 49,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_51",
+        "name": "GitHub",
+        "sort": 50,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_52",
+        "name": "Linux",
+        "sort": 51,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_53",
+        "name": "Postman",
+        "sort": 52,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_54",
+        "name": "Data Structures & Algorithms",
+        "sort": 53,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_55",
+        "name": "System Design",
+        "sort": 54,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_56",
+        "name": "Software Architecture",
+        "sort": 55,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_57",
+        "name": "Object-Oriented Programming (OOP)",
+        "sort": 56,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_58",
+        "name": "SOLID Principles",
+        "sort": 57,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_59",
+        "name": "Automated Testing",
+        "sort": 58,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_60",
+        "name": "pytest",
+        "sort": 59,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_61",
+        "name": "Agile / SDLC",
+        "sort": 60,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "skill_62",
+        "name": "Root Cause Analysis",
+        "sort": 61,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      }
+    ],
+    "languages": [
+      {
+        "id": "lang_1",
+        "name": "English",
+        "level": "C2",
+        "sort": 0,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "lang_2",
+        "name": "Tamil",
+        "level": "NATIVE",
+        "sort": 1,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "lang_3",
+        "name": "Hindi",
+        "level": "B1",
+        "sort": 2,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "lang_4",
+        "name": "Japanese",
+        "level": "B1",
+        "sort": 3,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "lang_5",
+        "name": "Malayalam",
+        "level": "A2",
+        "sort": 4,
+        "createdAt": "2026-10-29T06:56:11.249Z"
+      }
+    ],
+    "experience": [
+      {
+        "id": "exp_1",
+        "role": "Software Engineer — AI/ML",
+        "company": "D Trade Capital",
+        "location": "Remote",
+        "startYear": 2026,
+        "startMonth": 2,
+        "endYear": null,
+        "endMonth": null,
+        "current": true,
+        "bullets": "Owned the model-inference microservice of a multi-developer behavioral risk engine end-to-end, building an object-oriented service layer behind a FastAPI REST API that validates 20 input features as JSON and delivers low-latency predictions to downstream services.\nDesigned, trained, and benchmarked Transformer sequence-to-sequence models and Gradient Boosting ensembles in PyTorch on tick-level trading data for real-time anomaly detection, replacing fixed rule-based triggers with adaptive ML risk scores.\nOptimized inference performance using ONNX Runtime and Redis caching to achieve sub-10 ms latency under concurrent live trading data streams.\nIntegrated Large Language Models (LLMs via Claude API and LangChain) into risk analysis pipelines for automated anomaly report synthesis, summarization, and context-aware decision support for risk governance reviewers.\nEngineered real-time data ingestion and processing pipelines with Pandas, NumPy, and Pydantic to detect subtle behavioral risk markers including overtrading, loss-chasing, and trader fatigue.\nCollaborated with 2 teammates to establish strict API contracts, traced production issues to root cause, authored module documentation, and maintained 430+ automated pytest unit, integration, and regression suites.",
+        "sort": 0,
+        "skillIds": [
+          "skill_1",
+          "skill_10",
+          "skill_12",
+          "skill_3",
+          "skill_21",
+          "skill_22",
+          "skill_36",
+          "skill_24",
+          "skill_25",
+          "skill_60",
+          "skill_44",
+          "skill_17",
+          "skill_18"
+        ],
+        "createdAt": "2026-10-29T06:56:11.249Z",
+        "updatedAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "exp_2",
+        "role": "Machine Learning Intern",
+        "company": "Pc World",
+        "location": "Madurai, India",
+        "startYear": 2025,
+        "startMonth": 6,
+        "endYear": 2025,
+        "endMonth": 9,
+        "current": false,
+        "bullets": "Built and delivered end-to-end Python machine learning data pipelines on real-world datasets, covering data ingestion, cleaning, preprocessing, feature extraction, cross-validation, and model evaluation.\nApplied systematic hyperparameter tuning, feature engineering, and independent evaluation metrics (precision, recall, ROC-AUC) across predictive models to improve accuracy and ensure model generalization.\nImplemented detail-oriented data-quality validation checks and iterative debugging workflows, documenting model performance benchmarks for the engineering team.",
+        "sort": 1,
+        "skillIds": [
+          "skill_1",
+          "skill_30",
+          "skill_40",
+          "skill_41",
+          "skill_59",
+          "skill_43"
+        ],
+        "createdAt": "2026-10-29T06:56:11.249Z",
+        "updatedAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "exp_3",
+        "role": "Software Development Intern",
+        "company": "Vyukshathriya Technologix Pvt Ltd",
+        "location": "Madurai, Tamil Nadu, India",
+        "startYear": 2024,
+        "startMonth": 7,
+        "endYear": 2024,
+        "endMonth": 9,
+        "current": false,
+        "bullets": "Built and integrated responsive UI components with backend RESTful APIs, improving user interaction and data handling across client web applications.\nCollaborated in an Agile development team, breaking features into actionable sprint tasks, participating in code reviews, and working closely with QA for defect resolution.\nAuthored technical documentation, handled structured API payloads, and gained hands-on experience in full SDLC deployment workflows.",
+        "sort": 2,
+        "skillIds": [
+          "skill_4",
+          "skill_12",
+          "skill_17",
+          "skill_61",
+          "skill_50"
+        ],
+        "createdAt": "2026-10-29T06:56:11.249Z",
+        "updatedAt": "2026-10-29T06:56:11.249Z"
+      }
+    ],
+    "projects": [
+      {
+        "id": "proj_1",
+        "name": "AmongResolver – Multi-Source Reconciliation Engine",
+        "link": "https://github.com/RishiMaara/Among_Resolver",
+        "startYear": 2026,
+        "startMonth": 1,
+        "endYear": 2026,
+        "endMonth": 2,
+        "current": false,
+        "bullets": "Architected a modular 6-stage reconciliation pipeline (ingestion, fee decomposition, subset-sum matching, fuzzy fallback, LLM-assisted exception diagnosis, audit trail) integrating payment gateway exports, bank statements, and ERP ledgers with webhook-based ERP write-back.\nFormulated financial reconciliation as entity resolution followed by combinatorial optimization: an identity-linkage stage and Google OR-Tools CP-SAT solver narrowed a 50,000-record pool to 55 candidates in under 3.1 seconds with 0 false clears.\nAdded LLM-assisted exception diagnosis and semantic fallback matching for records the deterministic solver could not match, maintaining an immutable audit trail for every resolution.\nBacked by 430+ automated tests (335 backend pytest tests and 95 frontend tests) across unit, API, and end-to-end integration paths; delivered working proof-of-concept for the Razorpay AI Buildathon 2026.",
+        "sort": 0,
+        "skillIds": [
+          "skill_1",
+          "skill_10",
+          "skill_42",
+          "skill_12",
+          "skill_3",
+          "skill_19",
+          "skill_44",
+          "skill_24",
+          "skill_25",
+          "skill_60"
+        ],
+        "createdAt": "2026-10-29T06:56:11.249Z",
+        "updatedAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "proj_2",
+        "name": "MediSphere – Smart Hospital Management SaaS Platform",
+        "link": "https://medisphere-rishi.netlify.app",
+        "startYear": 2024,
+        "startMonth": 10,
+        "endYear": 2025,
+        "endMonth": 1,
+        "current": false,
+        "bullets": "Developed a full-stack multi-tenant healthcare SaaS platform integrating patient management, appointment scheduling, EHR records, billing/payment workflows, and laboratory/pharmacy operations.\nDesigned and implemented a role-based access control (RBAC) architecture for secure multi-tier user permissions across administrators, doctors, receptionists, and patients.\nArchitected scalable REST APIs and optimized PostgreSQL schemas with Supabase for high-concurrency real-time healthcare workflows.",
+        "sort": 1,
+        "skillIds": [
+          "skill_13",
+          "skill_12",
+          "skill_3",
+          "skill_34",
+          "skill_37",
+          "skill_17",
+          "skill_55"
+        ],
+        "createdAt": "2026-10-29T06:56:11.249Z",
+        "updatedAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "proj_3",
+        "name": "LinkForge – Distributed URL Shortener & Link Analytics SaaS",
+        "link": "https://linkforge-rishi.netlify.app",
+        "startYear": 2024,
+        "startMonth": 8,
+        "endYear": 2024,
+        "endMonth": 11,
+        "current": false,
+        "bullets": "Built a high-performance distributed URL shortener and link management SaaS featuring branded links, QR code generation, and low-latency redirection in Go.\nEngineered real-time traffic analytics dashboards monitoring clicks, referral sources, geographical distribution, and device metrics with per-link performance reporting.\nImplemented distributed Redis caching and rate-limiting middleware to sustain heavy concurrent traffic; containerized services with Docker for cross-platform deployment.",
+        "sort": 2,
+        "skillIds": [
+          "skill_5",
+          "skill_3",
+          "skill_34",
+          "skill_36",
+          "skill_44",
+          "skill_17"
+        ],
+        "createdAt": "2026-10-29T06:56:11.249Z",
+        "updatedAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "proj_4",
+        "name": "Dragonn – Snapdragon AI Lab Challenge 2026",
+        "link": "https://github.com/RishiMaara/Dragonn",
+        "startYear": 2026,
+        "startMonth": 1,
+        "endYear": 2026,
+        "endMonth": 2,
+        "current": false,
+        "bullets": "Built an on-device NPU model scanner, converter, and validator alongside an optimized Whisper speech recognition application for the Snapdragon AI Lab Challenge 2026.\nBenchmarked model latency and memory footprints across quantized on-device architectures to maximize edge inference performance.",
+        "sort": 3,
+        "skillIds": [
+          "skill_1",
+          "skill_21",
+          "skill_22",
+          "skill_24"
+        ],
+        "createdAt": "2026-10-29T06:56:11.249Z",
+        "updatedAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "proj_5",
+        "name": "Research Paper Answer Bot – RAG Assistant",
+        "link": "https://github.com/RishiMaara",
+        "startYear": 2025,
+        "startMonth": 7,
+        "endYear": 2025,
+        "endMonth": 9,
+        "current": false,
+        "bullets": "Developed a retrieval-augmented generation (RAG) system ingesting academic research paper PDFs, segmenting text, and generating dense vector embeddings stored in ChromaDB.\nIntegrated cross-encoder reranking to enhance retrieved context relevance before prompting Claude with carefully engineered system prompts and few-shot examples.\nEvaluated retrieval precision, faithfulness, and answer relevance using the RAGAS framework to iteratively optimize chunking strategies and prompt templates.",
+        "sort": 4,
+        "skillIds": [
+          "skill_1",
+          "skill_25",
+          "skill_27",
+          "skill_28",
+          "skill_29",
+          "skill_26",
+          "skill_32"
+        ],
+        "createdAt": "2026-10-29T06:56:11.249Z",
+        "updatedAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "proj_6",
+        "name": "Exoplanet Detection System & Model Validation Framework",
+        "link": "https://nasa-exoplanet-predicter.vercel.app",
+        "startYear": 2025,
+        "startMonth": 9,
+        "endYear": 2025,
+        "endMonth": 10,
+        "current": false,
+        "bullets": "Built a machine learning validation framework on NASA Kepler light-curve data, training Random Forest classifiers to predict confirmed exoplanets under extreme 99:1 class imbalance.\nApplied probability-based feature selection, ROC-AUC optimization, and precision-recall calibration to minimize false positives and control detection thresholds.\nPerformed feature importance analysis to interpret light-curve planetary transit signals and deployed an interactive web prototype on Vercel.",
+        "sort": 5,
+        "skillIds": [
+          "skill_1",
+          "skill_30",
+          "skill_40",
+          "skill_41"
+        ],
+        "createdAt": "2026-10-29T06:56:11.249Z",
+        "updatedAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "proj_7",
+        "name": "Pixel to Panel – Manga-to-Animation Computer Vision Pipeline",
+        "link": "https://github.com/RishiMaara",
+        "startYear": 2023,
+        "startMonth": 12,
+        "endYear": 2024,
+        "endMonth": 6,
+        "current": false,
+        "bullets": "Designed an automated computer vision pipeline converting raw comic and manga pages into structured, isolated panels using adaptive thresholding, morphological filtering, and contour detection.\nExtended the pipeline to image-to-video generation by applying dynamic Ken Burns and parallax camera motion to segmented panels, rendered to MP4 with ffmpeg.\nConstructed a synthetic ground-truth dataset with known panel geometry to systematically benchmark and validate segmentation accuracy.",
+        "sort": 6,
+        "skillIds": [
+          "skill_1",
+          "skill_31",
+          "skill_41"
+        ],
+        "createdAt": "2026-10-29T06:56:11.249Z",
+        "updatedAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "proj_8",
+        "name": "Smart Inventory & Order Management System",
+        "link": "https://github.com/RishiMaara",
+        "startYear": 2024,
+        "startMonth": 3,
+        "endYear": 2024,
+        "endMonth": 6,
+        "current": false,
+        "bullets": "Architected enterprise RESTful APIs following a layered Controller–Service–Repository design pattern in Java and Spring Boot.\nImplemented role-based access control, input validation, custom exception hierarchies, and transactional database integrity with Hibernate/JPA and MySQL.\nDeveloped comprehensive Postman test collections for automated API verification and documentation.",
+        "sort": 7,
+        "skillIds": [
+          "skill_2",
+          "skill_11",
+          "skill_16",
+          "skill_35",
+          "skill_17",
+          "skill_53",
+          "skill_57"
+        ],
+        "createdAt": "2026-10-29T06:56:11.249Z",
+        "updatedAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "proj_9",
+        "name": "LinguGen – Interactive English Learning Platform",
+        "link": "https://bit.ly/lingugen",
+        "startYear": 2024,
+        "startMonth": 5,
+        "endYear": 2024,
+        "endMonth": 7,
+        "current": false,
+        "bullets": "Developed an interactive language learning web platform featuring structured curriculum modules, dynamic quizzes, and real-time learner progress dashboards.\nDesigned RESTful API endpoints in Flask with SQLite to track student assessment metrics, identify learning gaps, and deliver tailored performance feedback.",
+        "sort": 8,
+        "skillIds": [
+          "skill_12",
+          "skill_3",
+          "skill_15",
+          "skill_39",
+          "skill_17"
+        ],
+        "createdAt": "2026-10-29T06:56:11.249Z",
+        "updatedAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "proj_10",
+        "name": "Coding Director – Interactive Developer Learning Platform",
+        "link": "https://bit.ly/codingdirector-rishi",
+        "startYear": 2025,
+        "startMonth": 1,
+        "endYear": 2025,
+        "endMonth": 3,
+        "current": false,
+        "bullets": "Engineered a full-stack developer education platform combining interactive coding exercises, typing muscle-memory drills, and gamified progress milestones.\nImplemented cloud-synchronized state management, automated evaluation checks, and comprehensive analytics tracking skill progression.",
+        "sort": 9,
+        "skillIds": [
+          "skill_12",
+          "skill_13",
+          "skill_3",
+          "skill_34"
+        ],
+        "createdAt": "2026-10-29T06:56:11.249Z",
+        "updatedAt": "2026-10-29T06:56:11.249Z"
+      }
+    ],
+    "education": [
+      {
+        "id": "edu_1",
+        "degree": "B.Tech in Artificial Intelligence & Machine Learning",
+        "school": "SNS College of Technology, Coimbatore",
+        "startYear": 2023,
+        "startMonth": 8,
+        "endYear": 2027,
+        "endMonth": 5,
+        "current": true,
+        "notes": "CGPA: 8.5 / 10. Relevant Coursework: Data Structures & Algorithms, Object-Oriented Programming (OOP), Database Management Systems (DBMS), Operating Systems, Computer Networks, Machine Learning, Linear Algebra, Probability & Statistics, Software Engineering, System Design.",
+        "sort": 0,
+        "createdAt": "2026-10-29T06:56:11.249Z",
+        "updatedAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "edu_2",
+        "degree": "Higher Secondary Certificate (HSC) & SSLC",
+        "school": "EBG Matric Higher Secondary School, Madurai",
+        "startYear": 2008,
+        "startMonth": 6,
+        "endYear": 2023,
+        "endMonth": 5,
+        "current": false,
+        "notes": "Achieved 80% in Higher Secondary Certificate (HSC) with Mathematics, Physics, Chemistry, and Computer Science.",
+        "sort": 1,
+        "createdAt": "2026-10-29T06:56:11.249Z",
+        "updatedAt": "2026-10-29T06:56:11.249Z"
+      }
+    ],
+    "publications": [],
+    "references": [],
+    "facts": [
+      {
+        "id": "fact_1",
+        "text": "Solved 738+ LeetCode problems covering Trees, Graphs, Dynamic Programming, and Arrays (Profile: leetcode.com/u/AVRishikesh_23).",
+        "sort": 0,
+        "createdAt": "2026-10-29T06:56:11.249Z",
+        "updatedAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "fact_2",
+        "text": "Ranked #26 nationwide out of 9,600+ participants in the Naukri Campus CodeQuezt contest.",
+        "sort": 1,
+        "createdAt": "2026-10-29T06:56:11.249Z",
+        "updatedAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "fact_3",
+        "text": "Top 5 Finalist at the IIT Bombay Hackathon.",
+        "sort": 2,
+        "createdAt": "2026-10-29T06:56:11.249Z",
+        "updatedAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "fact_4",
+        "text": "Finalist / participant in Razorpay AI Buildathon 2026, Smart India Hackathon (SIH), Accenture Innovation Challenge, and NIT Trichy 36-hour AI Hackathon (Tata Centre for AI/ML).",
+        "sort": 3,
+        "createdAt": "2026-10-29T06:56:11.249Z",
+        "updatedAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "fact_5",
+        "text": "Certified: Oracle Cloud Infrastructure 2025 Certified Data Science Professional (Oct 2025).",
+        "sort": 4,
+        "createdAt": "2026-10-29T06:56:11.249Z",
+        "updatedAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "fact_6",
+        "text": "Certified: Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate (Sep 2025).",
+        "sort": 5,
+        "createdAt": "2026-10-29T06:56:11.249Z",
+        "updatedAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "fact_7",
+        "text": "Certified: Databricks Accredited Generative AI Fundamentals (Sep 2025).",
+        "sort": 6,
+        "createdAt": "2026-10-29T06:56:11.249Z",
+        "updatedAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "fact_8",
+        "text": "Certified: AWS Academy Graduate – Generative AI Foundations (Sep 2025).",
+        "sort": 7,
+        "createdAt": "2026-10-29T06:56:11.249Z",
+        "updatedAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "fact_9",
+        "text": "Portfolio website: https://rishikesh-av-portfolio.lovable.app",
+        "sort": 8,
+        "createdAt": "2026-10-29T06:56:11.249Z",
+        "updatedAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "fact_10",
+        "text": "GitHub profile: https://github.com/RishiMaara",
+        "sort": 9,
+        "createdAt": "2026-10-29T06:56:11.249Z",
+        "updatedAt": "2026-10-29T06:56:11.249Z"
+      },
+      {
+        "id": "fact_11",
+        "text": "Location: Madurai, Tamil Nadu, India; fully open to relocate and work remotely.",
+        "sort": 10,
+        "createdAt": "2026-10-29T06:56:11.249Z",
+        "updatedAt": "2026-10-29T06:56:11.249Z"
+      }
+    ]
+  },
+  "themes": [],
+  "settings": [],
+  "applications": [],
+  "postings": [],
+  "searches": [],
+  "agentCandidates": [],
+  "startups": [],
+  "startupBlocks": []
+}
