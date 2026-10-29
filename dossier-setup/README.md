@@ -32,3 +32,4 @@ This directory contains the self-hosted **Dossier** Docker configuration files, 
    ```
 5. Open `http://localhost:3000` and sign in.
 6. Go to **Settings → Restore from backup / Import** and select `dossier-master-export.json`.
+
